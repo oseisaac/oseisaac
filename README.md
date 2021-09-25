@@ -57,13 +57,13 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+<!-- ### 👉 Programming languages
 
 <p align="left"> 
   
 
   <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img alt="DART" src="https://img.shields.io/badge/JAVA%20SCRIPT-%20-%23efd81d?style=for-the-badge&logo=dart&logoColor=black"/>
   </a>
 &emsp;
 <a href="https://python.org/">
@@ -111,7 +111,7 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
- </p>
+ </p> -->
 
  ### 👉 Software & Tools
  
@@ -151,5 +151,4 @@
 <br/>
 
 ------
-Credit: [oseisaac](https://github.com/oseisaac)
-Last Edited on: 08/09/2021
+Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
