@@ -36,7 +36,7 @@
 - ⚡ Fun fact: ... I am a Manchester United Fan . ⚽
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=oseisaac&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=oseisaac&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
 
 <hr>
 <p align="center">
@@ -51,7 +51,7 @@
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=oseisaac&theme=gruvbox&hide_border=true&area=true)
-
+ -->
 
 
 ## 🛠️ My Skills
