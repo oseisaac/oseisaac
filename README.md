@@ -112,7 +112,7 @@
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
  </p> -->
 
- ### 👉 Software & Tools
+<!--  ### 👉 Software & Tools
  
 <p>
   &emsp;
@@ -147,7 +147,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=oseisaac&theme=gruvbox" />
 
 
-<br/>
+<br/> -->
 
 ------
 Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
