@@ -14,7 +14,7 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Frontend and Backend Projects
-- 🌱 I've 1+ years of professional experience and built three cross-platform applications in React, Node, Java
+- 🌱 I've 2+ years of professional experience and built three cross-platform applications in React, Node, Java
 - 👯 I’m looking to collaborate on Java, Node Js ,React Native and React or any Frontend Projects
 - 💬 Ask me about Programming or Frontend & Backend Technological Advancements
 - 📷 And I am also passionate about photography
