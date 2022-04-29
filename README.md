@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/oseisaac.svg?style=social&label=Followers)](https://github.com/oseisaac?tab=followers) -->
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff7800&size=30&lines=Hey!+It's+Isaac!;I+have+a+passion+for+simplifying+and+creating+complex+full+stack+system...;I'm+also+Software+Developer;](https://git.io/typing-svg) -->
-### Hi Im Isaac and I have a passion for simplifying and creating complex full stack system 
+### Im Isaac and I have a passion for simplifying and creating complex full stack system 
 
 
 <img src="https://komarev.com/ghpvc/?username=oseisaac&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
